@@ -1,6 +1,2 @@
 -fazer pagina responsiva com o celular - melhorar 
--ver porque o <img class="vector-2" src="./images/close.png" />
-            <img class="vector-3" src="./images/close.png" />
-            <img class="vector-4" src="./images/close.png"  nao vai
-
 -pedir o formulario para colocar no clique e concorra
