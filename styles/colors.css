@@ -1,0 +1,33 @@
+:root {
+    /* Cores principais */
+    --primary-color: #299b90;
+    --secondary-color: #60d2c6;
+    --accent-color: #0ad8c8;
+
+    /* Tipografia */
+    --font-family: 'Montserrat', sans-serif;
+
+    --white: #FFFFFF;
+    --teal-light: #e7fffc;
+    --teal-pale-200: #c2eee9;
+    --teal-pale: #c6f7ed;
+    --teal-medium: #60d2c6;
+    --teal-light-100: #5fd1c6;
+    --teal-light-200: #6acdc4;
+    --teal-vibrant: #0ad8c8;
+    --teal-bright: #00ae9d;
+    --teal-primary: #299b90;
+    --teal-600: #41a79d;
+    --cyan-bright: #44ffec;
+    --teal-dark-200: #10a394;
+    --teal-dark-100: #0b5b54;
+    --teal-dark-300: #5fd1c661;
+    --black-transparent-8: #00000014;
+    --gray-medium-100: #8e8e8e;
+    --gray-warm-100: #837c7c;
+
+    /*Paleta de cores*/
+    --olive-green: #b3c084;
+    --gold-pale: #ddcf73;
+
+}
